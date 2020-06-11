@@ -1,0 +1,23 @@
+
+
+/* propiedades para modificacion de colores tamaños y otros del contenedor principal, primario y footer */
+
+body {
+  background-image: url('https://picjumbo.com/wp-content/uploads/stream-of-ink-free-photo-2210x1473.jpg');
+  background-repeat: no-repeat;
+background-attachment: fixed;
+   
+}
+
+body {
+  
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100vh;
+}
+
+
+
